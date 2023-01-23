@@ -2,7 +2,7 @@
 x4mx0dbmp
 
 # title
-Title 3 - Edit
+Title 3
 
 # body
 Content of title 3
