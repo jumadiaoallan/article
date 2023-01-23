@@ -24,7 +24,7 @@ git lfs install
 
 # publish any new files
 git checkout ${BRANCH_NAME}
-# git rm -r articles
+git rm -r articles
 git status
 git add .
 timestamp=$(date -u)
